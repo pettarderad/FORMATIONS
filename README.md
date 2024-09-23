@@ -1,5 +1,7 @@
 # FORMATIONS
 
+[The README sheet inside the workbook is much easier to read, and contains the same information as this text]
+
 - OVERVIEW
 
 This workbook allows you to create, edit and compare different hockey formations, including special teams like powerplay (PP) and boxplay (BP). 
